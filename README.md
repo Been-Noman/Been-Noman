@@ -13,9 +13,9 @@
 
 - 👯 I’m looking forward to collaborating on **Machine Learning, Game AI, Physics Engine, VFX, Simulations**
 
-- 🤝 I’m looking for help with **research on machine learning, information theory, quantum information theory.**
+- 🤝 I’m looking for help with **research on Machine learning, Information theory, Quantum information theory, PINNs, HPC, SciML**
 
-- 💬 Ask me about **python, mathematics, physics, learning process, books**
+- 💬 Ask me about **Programming, Mathematics, Physics, Learning Techniques, Philosophy, Religion**
 
 - 📫 How to reach me **nomaneon00@gmail.com**
 
