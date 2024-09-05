@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **research on Machine learning, Information theory, Quantum information theory, PINNs, HPC, SciML**
 
-- 💬 Ask me about **Programming, Mathematics, Physics, Learning Techniques, Philosophy, Religion**
+- 💬 Ask me about **Programming, Mathematics, Physics, Philosophy, Religion, Research Learning Techniques**
 
 - 📫 How to reach me **nomaneon00@gmail.com**
 
