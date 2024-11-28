@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/bin_shaded" target="blank"><img src="https://img.shields.io/twitter/follow/bin_shaded?logo=twitter&style=for-the-badge" alt="bin_shaded" /></a> </p>
 
-- 🔭 I’m currently working on **Energy System Modeling**
+- 🔭 I’m currently working on **Post-Quantum Cryptography**
 
-- 🌱 I’m currently learning **Python, C++, JavaScript, R, Julia, LISP, Lean**
+- 🌱 I’m currently learning **Python, C++, Java, R, Julia, Matlab, Lean, Rust**
 
-- 👯 I’m looking forward to collaborating on **Machine Learning, Game AI, Physics Engine, VFX, Simulations**
+- 👯 I’m looking forward to collaborating on **Machine Learning, Game AI, Physics Engine, VFX, Simulations, Robotics, Autonomous Vehicle**
 
-- 🤝 I’m looking for help with **research on Machine learning, Information theory, Quantum information theory, PINNs, HPC, SciML**
+- 🤝 I’m looking for help with **research on Machine learning, Information theory, PINNs, HPC, SciML, Robotics**
 
-- 💬 Ask me about **Programming, Mathematics, Physics, Philosophy, Religion, Research Learning Techniques**
+- 💬 Ask me about **Programming, Mathematics, Physics, Philosophy, Religion, Research, Learning Techniques**
 
 - 📫 How to reach me **nomaneon00@gmail.com**
 
