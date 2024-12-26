@@ -29,6 +29,81 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
+</a>
+
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> 
+</a>
+
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
+</a>
+
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+</a>
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
+</a>
+
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="40" height="40"/> 
+</a>
+
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> 
+</a>
+
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> 
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> 
+</a>
+
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
+</a>
+
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> 
+</a>
+
+<a href="http://gazebosim.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/> 
+</a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> 
+</a>
+
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a>
+
+<a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" alt="fortran" width="40" height="40"/> 
+</a>
+
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
