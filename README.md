@@ -96,10 +96,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> 
 </a>
 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
-
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" alt="fortran" width="40" height="40"/> 
 </a>
