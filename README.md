@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bin_shaded" target="blank"><img src="https://img.shields.io/twitter/follow/bin_shaded?logo=twitter&style=for-the-badge" alt="bin_shaded" /></a> </p>
 
-- 🔭 I’m currently working on **Post-Quantum Cryptography**
+- 🔭 I’m currently working on **Generative AI**
 
 - 🌱 I’m currently learning **Python, C++, Java, R, Julia, Matlab, Lean, Rust, Fortran**
 
