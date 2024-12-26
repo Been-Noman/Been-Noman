@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Post-Quantum Cryptography**
 
-- 🌱 I’m currently learning **Python, C++, Java, R, Julia, Matlab, Lean, Rust**
+- 🌱 I’m currently learning **Python, C++, Java, R, Julia, Matlab, Lean, Rust, Fortran**
 
 - 👯 I’m looking forward to collaborating on **Machine Learning, Game AI, Physics Engine, VFX, Simulations, Robotics, Autonomous Vehicle**
 
